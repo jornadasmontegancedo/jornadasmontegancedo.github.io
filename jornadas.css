@@ -20,13 +20,6 @@
 	padding-right: 4px;
 }
 
-.jumbotron
-{
-	padding-top: 5%;
-	height: 20pt;
-	background: #f4f4ed;
-}
-
 .myfooter
 {
 	background: #f4f4ed;
@@ -41,4 +34,9 @@
 .descripcion
 {
 	font-weight:400;
+}
+
+.investigadoras
+{
+	padding-left: 5%;
 }
